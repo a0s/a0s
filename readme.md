@@ -1,5 +1,5 @@
-## Hello! 👋
-I’m Anton and I make infrastructure.
+## Hi, I’m Anton! 👋
+I make infrastructure.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anton%20Osenenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-osenenko/)](https://www.linkedin.com/in/anton-osenenko/)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-a00s-%232496ED?logo=Docker&labelColor=f0f0f0&style=flat-square&link=https://hub.docker.com/u/a00s)](https://hub.docker.com/u/a00s)
