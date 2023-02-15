@@ -6,7 +6,16 @@ I make infrastructure.
 [![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-a0s-%23000000?logo=terraform&labelColor=5c4ee5&style=flat-square&link=https://registry.terraform.io/namespaces/a0s)](https://registry.terraform.io/namespaces/a0s)
 
 
-### My toolbox
+
+
+### ⛏ Participated in projects ⛏
+
+| <a href="https://www.beyondplay.io"><img alt="BeyondPlay" title="BeyondPlay" width="130px" src="https://uploads-ssl.webflow.com/614894c5fd99b562136f2dcd/61533f4c6aba75412e0b48bc_BeyondPlay_Logo.svg"></a> | <a href="https://breakingequity.com"><img alt="BreakingEquity" title="BreakingEquity" width="130px" src="https://breakingequity.com/wp-content/themes/be-theme/assets/img/be-logo.svg"></a> | <a href="https://www.wallarm.com"><img alt="Wallarm" title="Wallarm" width="130px" src="https://runacap.com/wp-content/uploads/2020/03/Wallarm-logo.svg"></a> | <a href="https://www.socialquantum.com/"><img alt="SocialQuantum" title="SocialQuantum" width="130px" src="https://asset.brandfetch.io/iduE1pBKc-/idlycTmEUq.png"></a> | <a href="https://qlean.ru/"><img alt="Qlean" title="Qlean" width="130px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ERbdMnNRXRqUaFpQR_w-huVLt-glgBRLoJINQwVl_e3iyf6ZAX_cycuZk1nnImz3lPE&usqp=CAU"></a> |
+| - | - | - | - | - |
+
+
+
+### 🛠 My toolbox 🛠
 
 | Clouds | <img alt="AWS" title="AWS" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> | <img alt="Hetzner" title="Hetzner" width="55px" src="https://cdn.hetzner.de/cdn/public/Uploads/icon-circle-cloud.svg"> | <img alt="DigitalOcean" title="DigitalOcean" width="55px" src="https://companieslogo.com/img/orig/DOCN-6eec72eb.png?t=1660638083"> |
 | - | - | - | - |
