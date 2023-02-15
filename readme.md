@@ -3,7 +3,7 @@ I make infrastructure.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anton%20Osenenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-osenenko/)](https://www.linkedin.com/in/anton-osenenko/)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-a00s-%232496ED?logo=Docker&labelColor=f0f0f0&style=flat-square&link=https://hub.docker.com/u/a00s)](https://hub.docker.com/u/a00s)
-![Profile View Counter](https://komarev.com/ghpvc/?username=a0s&style=flat-square&label=Views)
+[![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-a0s-%23000000?logo=terraform&labelColor=5c4ee5&style=flat-square&link=https://registry.terraform.io/namespaces/a0s)](https://registry.terraform.io/namespaces/a0s)
 
 
 ### My toolbox
@@ -14,13 +14,13 @@ I make infrastructure.
 | Infrastructure | <img alt="Docker" title="Docker" width="55px" src="https://github.com/MacroPower/MacroPower/raw/master/img/docker-original.svg"> | <img alt="Kubernetes" title="Kubernetes" width="55px" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"> | <img alt="Grafana" title="Grafana" width="55px" src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg"> | <img alt="Prometheus" title="Prometheus" width="55px" src="https://github.com/cncf/artwork/raw/master/projects/prometheus/icon/color/prometheus-icon-color.svg"> |
 | - | - | - | - | - |
 
-| CI/CD | |
-| - | - |
+| CI/CD | <img alt="Jenkins" title="Jenkins" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png"> | <img alt="GitHub" title="GitHub" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png?20180806170715"> | <img alt="GitLab" title="GitLab" width="55px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"> |
+| - | - | - | - |
 
 | Async/IoT | <img alt="RabbitMQ" title="RabbitMQ" width="55px" src="https://herve.beraud.io/images/blog/rabbitmq.png"> | <img alt="MQTT" title="MQTT" width="55px" src="https://mqtt.org/assets/img/mqtt-logo-ver.jpg"> | <img alt="Sidekiq" title="Sidekiq" width="55px" src="https://camo.githubusercontent.com/7abc762417d2e2c07529734d869e0adab4c8f01af1026af766acf7027e5f9cdd/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f323931312f3730333933312f32306466326238612d646462352d313165322d393363312d6437363837616561313832612e706e67"> |
 | - | - | - | - |
 
-| Languages | <img alt="Ruby" title="Ruby" width="55px" src="https://www.ruby-lang.org/images/header-ruby-logo.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://github.com/MacroPower/MacroPower/raw/master/img/typescript-original.svg"> | <img title="Python" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="Golang" title="Golang" width="55px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"> |
+| Languages | <img alt="Ruby" title="Ruby" width="55px" src="https://www.ruby-lang.org/images/header-ruby-logo.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://github.com/MacroPower/MacroPower/raw/master/img/typescript-original.svg"> | <img title="Python" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="Golang" title="Golang" width="55px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg"> |
 | - | - | - | - | - |
 
 | Databases | <img alt="Postgres" title="Postgres" width="55px" src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/540px-PostgreSQL_logo.3colors.svg.png"> | <img alt="Elasticsearch" title="Elasticsearch" width="55px" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg"> | <img alt="Redis" title="Redis" width="55px" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> | <img alt="Memcached" title="Memcached" width="55px" src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg"> | <img alt="Tarantool" title="Tarantool" width="55px" src="https://static.tarantool.io/pub/221010-1358-42cde9c/tarantool/images/logo-tarantool-small.svg"> |
