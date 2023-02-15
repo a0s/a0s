@@ -3,7 +3,6 @@ I make infrastructure.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anton%20Osenenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-osenenko/)](https://www.linkedin.com/in/anton-osenenko/)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-a00s-%232496ED?logo=Docker&labelColor=f0f0f0&style=flat-square&link=https://hub.docker.com/u/a00s)](https://hub.docker.com/u/a00s)
-![GitHub followers](https://img.shields.io/github/followers/a0s?label=Follow&style=flat-square)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=a0s&style=flat-square&label=Views)
 
 
@@ -14,6 +13,12 @@ I make infrastructure.
 
 | Infrastructure | <img alt="Docker" title="Docker" width="55px" src="https://github.com/MacroPower/MacroPower/raw/master/img/docker-original.svg"> | <img alt="Kubernetes" title="Kubernetes" width="55px" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"> | <img alt="Grafana" title="Grafana" width="55px" src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg"> | <img alt="Prometheus" title="Prometheus" width="55px" src="https://github.com/cncf/artwork/raw/master/projects/prometheus/icon/color/prometheus-icon-color.svg"> |
 | - | - | - | - | - |
+
+| CI/CD | |
+| - | - |
+
+| Async/IoT | <img alt="RabbitMQ" title="RabbitMQ" width="55px" src="https://herve.beraud.io/images/blog/rabbitmq.png"> | <img alt="MQTT" title="MQTT" width="55px" src="https://mqtt.org/assets/img/mqtt-logo-ver.jpg"> | <img alt="Sidekiq" title="Sidekiq" width="55px" src="https://camo.githubusercontent.com/7abc762417d2e2c07529734d869e0adab4c8f01af1026af766acf7027e5f9cdd/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f323931312f3730333933312f32306466326238612d646462352d313165322d393363312d6437363837616561313832612e706e67"> |
+| - | - | - | - |
 
 | Languages | <img alt="Ruby" title="Ruby" width="55px" src="https://www.ruby-lang.org/images/header-ruby-logo.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://github.com/MacroPower/MacroPower/raw/master/img/typescript-original.svg"> | <img title="Python" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="Golang" title="Golang" width="55px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"> |
 | - | - | - | - | - |
