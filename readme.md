@@ -11,7 +11,7 @@ I'm passionate about DevOps, cloud computing, and software engineering.
 
 🚀 My tech stack includes Terraform, Kubernetes, AWS, CDKTF, and more.
 
-🌟 Since 2011, I've been crafting elegant solutions using Ruby 💎, and along the way, I've also picked up Python 🐍 and dabbled in Go 🚦 to expand my skill set. 
+🌟 Since 2011, I've been crafting elegant solutions using Ruby , and along the way, I've also picked up Python 🐍 and dabbled in Go to expand my skill set. 
 
 🧠 When I'm not coding, I love diving into new technologies, giving back to the open-source community, and empowering others with my knowledge and experiences. 
 
