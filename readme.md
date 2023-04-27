@@ -20,11 +20,16 @@ I'm passionate about DevOps, cloud computing, and software engineering.
 
 ## 🎯 Key Project Experiences
 
-- [**BeyondPlay**](https://www.beyondplay.io) _(Jan 2019 - Present)_: Revolutionizing the gaming industry with advanced infrastructure
-- [**BreakingEquity**](https://breakingequity.com) _(Mar 2017 - Dec 2018)_: Empowering traders with cutting-edge automated trading solutions
-- [**Wallarm**](https://www.wallarm.com) _(Apr 2015 - Feb 2017)_: Pioneering next-generation web application security technologies
-- [**SocialQuantum**](https://www.socialquantum.com) _(Jun 2013 - Mar 2015)_: Creating immersive social gaming experiences for millions of players worldwide
-- [**Qlean**](https://qlean.ru) _(Aug 2011 - May 2013)_: Redefining the cleaning industry with a tech-driven approach
+- [**BeyondPlay**](https://www.beyondplay.io) _(Jun 2022 - Present)_: Revolutionizing the gaming industry with advanced infrastructure
+- [**BreakingEquity**](https://breakingequity.com) _(Jun 2021 - Apr 2022)_: Empowering traders with cutting-edge automated trading solutions
+- [**Welltory**](https://welltory.com) _(Nov 2020 - Jan 2021)_: Harnessing data to improve personal health and well-being
+- [**Rocketbank**](https://rocketbank.ru) _(Dec 2019 - Jun 2020)_: Simplifying banking with innovative digital solutions
+- [**Qlean**](https://qlean.ru) _(Apr 2017 - Dec 2019)_: Redefining the cleaning industry with a tech-driven approach
+- [**Wallarm**](https://www.wallarm.com) _(Jul 2014 - Jul 2016)_: Pioneering next-generation web application security technologies
+- [**SocialQuantum**](https://www.socialquantum.com) _(Mar 2012 - Mar 2014)_: Creating immersive social gaming experiences for millions of players worldwide
+- [**KupiKupon**](https://kupikupon.ru) _(Jan 2011 - Jan 2012)_: Revolutionizing the e-commerce landscape with exciting deals and discounts
+
+
 
 ## 🍇 My Toolbox
 
