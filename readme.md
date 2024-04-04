@@ -20,7 +20,7 @@ I'm passionate about DevOps, cloud computing, and software engineering.
 
 ## 🎯 Key Project Experiences
 
-- [**BeyondPlay**](https://www.beyondplay.io) _(Jun 2022 - Present)_: Revolutionizing the gaming industry with advanced infrastructure
+- [**BeyondPlay**](https://www.beyondplay.io) _(Jun 2022 - Mar 2024)_: Revolutionizing the gaming industry with advanced infrastructure
 - [**BreakingEquity**](https://breakingequity.com) _(Jun 2021 - Apr 2022)_: Empowering traders with cutting-edge automated trading solutions
 - [**Welltory**](https://welltory.com) _(Nov 2020 - Jan 2021)_: Harnessing data to improve personal health and well-being
 - [**Rocketbank**](https://rocketbank.ru) _(Dec 2019 - Jun 2020)_: Simplifying banking with innovative digital solutions
