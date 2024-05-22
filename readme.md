@@ -2,7 +2,7 @@
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-a00s-%232496ED?logo=Docker&labelColor=f0f0f0&style=flat-square&link=https://hub.docker.com/u/a00s)](https://hub.docker.com/u/a00s)
 [![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-a0s-%23000000?logo=terraform&labelColor=5c4ee5&style=flat-square&link=https://registry.terraform.io/namespaces/a0s)](https://registry.terraform.io/namespaces/a0s)
 
-<br>
+![a0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0s&show_icons=true&theme=light)
 
 👋 Hey there! I'm Anton, a Senior Infrastructure Engineer and open-source enthusiast from Warsaw, Poland. 🇵🇱 
 I'm passionate about DevOps, cloud computing, and software engineering. 
