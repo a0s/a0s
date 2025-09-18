@@ -1,4 +1,4 @@
-[![CV Badge](https://img.shields.io/badge/CV-Anton%20Osenenko-%23ff5722?style=flat-square&logo=read-the-docs&logoColor=white&labelColor=333)](https://github.com/user-attachments/files/22410912/Anton-Osenenko-Principal-DevOps-Platform-Engineer.pdf)
+[![CV Badge](https://img.shields.io/badge/CV-Anton%20Osenenko-%23ff5722?style=flat-square&logo=read-the-docs&logoColor=white&labelColor=333)](https://github.com/a0s/a0s/blob/c6b7ed364fed7d5998216345916622f757fc8f32/Anton-Osenenko-Principal-DevOps-Platform-Engineer.pdf)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/a00s)
 [![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-5c4ee5?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/namespaces/a0s)
 
