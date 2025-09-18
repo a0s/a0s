@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Anton%20Osenenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-osenenko/)](https://www.linkedin.com/in/anton-osenenko/)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-a00s-%232496ED?logo=Docker&labelColor=f0f0f0&style=flat-square&link=https://hub.docker.com/u/a00s)](https://hub.docker.com/u/a00s)
-[![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-a0s-%23000000?logo=terraform&labelColor=5c4ee5&style=flat-square&link=https://registry.terraform.io/namespaces/a0s)](https://registry.terraform.io/namespaces/a0s)
+[![CV Badge](https://img.shields.io/badge/CV-Anton%20Osenenko-%23ff5722?style=flat-square&logo=read-the-docs&logoColor=white&labelColor=333)](https://github.com/user-attachments/files/22410912/Anton-Osenenko-Principal-DevOps-Platform-Engineer.pdf)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/a00s)
+[![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-5c4ee5?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/namespaces/a0s)
 
 ![a0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0s&show_icons=true&theme=light)
 
