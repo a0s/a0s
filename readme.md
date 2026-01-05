@@ -1,11 +1,9 @@
 ## About Me
 
 I'm **Anton Osenenko**, a DevOps Platform Engineer based in Warsaw, Poland.
-With 13+ years in software development and deep infrastructure experience, I build cloud-native, automated, and production-grade systems.
+With 15+ years in software development and deep infrastructure experience, I build cloud-native, automated, and production-grade systems.
 
 I design AWS infrastructures from scratch, migrate systems to Kubernetes, and build CI/CD pipelines that scale. My focus is on clarity, automation, and reliability — from Terraform modules and CDKTF setups to real-time pipelines and observability stacks.
-
----
 
 ## Technologies
 
@@ -30,8 +28,6 @@ RabbitMQ • Kafka
 **Security**
 HashiCorp Vault • IAM • RBAC
 
----
-
 ## What I Do
 
 - Design and codify infrastructure with Terraform & CDKTF
@@ -39,8 +35,6 @@ HashiCorp Vault • IAM • RBAC
 - Automate CI/CD and deployment workflows
 - Optimize observability and incident response
 - Keep systems efficient, secure, and reliable
-
----
 
 ## Projects
 
@@ -57,14 +51,6 @@ HashiCorp Vault • IAM • RBAC
       <a href="https://www.countrytracker.app/"><img src="projects/countrytracker.webp" alt="Country Tracker" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
 </table>
-
----
 
 [View my full CV](DevOps_Platform_Engineer.pdf)
