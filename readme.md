@@ -42,7 +42,7 @@ HashiCorp Vault • IAM • RBAC
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://www.pixlflw.com/">PIXLFLW</a></h3>
-  <p>Non-destructive image photo editor. Professional image editing that's always reversible.</p>
+  <p>Non-destructive image photo editor. Professional image editing that's always reversible. Operations are arranged in a stack and executed sequentially.</p>
       <a href="https://www.pixlflw.com/"><img src="projects/pixlflw.webp" alt="PIXLFLW" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 <td width="50%" valign="top">
