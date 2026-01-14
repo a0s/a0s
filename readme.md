@@ -58,6 +58,8 @@ HashiCorp Vault • IAM • RBAC
 If you don't have a suitable phone, install it safely in an emulator with a single command.</p>
       <a href="https://github.com/a0s/max-in-jail"><img src="projects/max-in-jail.webp" alt="Max in Jail" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
+<td width="50%" valign="top">
+</td>
 </tr>
 </table>
 
