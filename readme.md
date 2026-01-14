@@ -51,6 +51,14 @@ HashiCorp Vault • IAM • RBAC
       <a href="https://www.countrytracker.app/"><img src="projects/countrytracker.webp" alt="Country Tracker" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/a0s/max-in-jail">Max in Jail</a></h3>
+  <p>Safe installation of Max messenger on macOS through Android emulator.
+If you don't have a suitable phone, install it safely in an emulator with a single command.</p>
+      <a href="https://github.com/a0s/max-in-jail"><img src="projects/max-in-jail.webp" alt="Max in Jail" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
+</td>
+</tr>
 </table>
 
 [View my full CV](DevOps_Platform_Engineer.pdf)
