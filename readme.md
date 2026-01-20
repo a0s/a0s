@@ -37,7 +37,7 @@ If you don't have a suitable phone, install it safely in an emulator with a sing
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/a0s/3proxy-install">3proxy-install</a></h3>
-  <p>Easy-to-use bash script for deploying a secure 3proxy server on Linux with interactive setup and user management.</p>
+  <p>Bash script for deploying a secure 3proxy server on Linux. Features interactive setup, user management, and support for multiple proxy protocols (HTTP, HTTPS, SOCKS4, SOCKS5).</p>
       <a href="https://github.com/a0s/3proxy-install"><img src="projects/3proxy-install.webp" alt="3proxy-install" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 </tr>
