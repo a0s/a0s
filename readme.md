@@ -3,30 +3,7 @@
 I'm **Anton Osenenko**, a DevOps Platform Engineer based in Warsaw, Poland.
 With 15+ years in software development and deep infrastructure experience, I build cloud-native, automated, and production-grade systems.
 
-I design AWS infrastructures from scratch, migrate systems to Kubernetes, and build CI/CD pipelines that scale. My focus is on clarity, automation, and reliability — from Terraform modules and CDKTF setups to real-time pipelines and observability stacks.
-
-## Technologies
-
-**Programming Languages**
-Python • TypeScript • Ruby
-
-**Cloud & Infrastructure**
-AWS (EKS, ECS, EC2, RDS, S3, Lambda, GameLift) • Kubernetes • Terraform • CDKTF • Docker
-
-**CI/CD & Automation**
-GitHub Actions • GitLab CI • Jenkins • Ansible • ArgoCD • Packer
-
-**Monitoring & Observability**
-Prometheus • Grafana • OpenObserve • OpenTelemetry • Fluentd • Graylog • DataDog • NewRelic
-
-**Databases**
-PostgreSQL • ClickHouse • Redis • ScyllaDB • MySQL
-
-**Messaging**
-RabbitMQ • Kafka
-
-**Security**
-HashiCorp Vault • IAM • RBAC
+I design AWS infrastructures from scratch, migrate systems to Kubernetes, and build CI/CD pipelines that scale. My focus is on clarity, automation, and reliability - from Terraform modules and CDKTF setups to real-time pipelines and observability stacks.
 
 ## What I Do
 
@@ -59,6 +36,9 @@ If you don't have a suitable phone, install it safely in an emulator with a sing
       <a href="https://github.com/a0s/max-in-jail"><img src="projects/max-in-jail.webp" alt="Max in Jail" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 <td width="50%" valign="top">
+  <h3><a href="https://github.com/a0s/3proxy-install">3proxy-install</a></h3>
+  <p>Easy-to-use bash script for deploying a secure 3proxy server on Linux. Features interactive setup, user management, and support for multiple proxy protocols (HTTP, HTTPS, SOCKS4, SOCKS5).</p>
+      <a href="https://github.com/a0s/3proxy-install"><img src="projects/3proxy-install.webp" alt="3proxy-install" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 </tr>
 </table>
