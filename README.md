@@ -19,7 +19,7 @@ I design AWS infrastructures from scratch, migrate systems to Kubernetes, and bu
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/a0s/smartcat">smartcat</a></h3>
-  <p>Make cat smart - transparently. Keep typing cat as always: a human viewing a single file in the terminal gets rendered Markdown, images, code, and data. The instant output goes to a pipe, file, or script, it's the ordinary cat again - byte for byte.</p>
+  <p>Make cat smart - transparently. Viewing a single file in the terminal gets rendered Markdown, images, code, and data. The instant output goes to a pipe, file, or script, it's the ordinary cat again - byte for byte.</p>
       <a href="https://github.com/a0s/smartcat"><img src="projects/smartcat.webp" alt="smartcat" width="100%" style="border-radius: 8px; margin-top: 10px;"></a>
 </td>
 <td width="50%" valign="top">
