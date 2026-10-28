@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Codex_CLI-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI">
   <img src="https://img.shields.io/badge/Agent_Skills-6E40C9?style=flat-square" alt="Agent Skills">
+  <a href="https://www.linkedin.com/in/anton-osenenko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="DevOps_Platform_Engineer.pdf"><img src="https://img.shields.io/badge/CV-PDF-2EA44F?style=flat-square&logo=readdotcv&logoColor=white" alt="CV"></a>
 </p>
 
