@@ -32,11 +32,11 @@
 
 | | Project | What it does |
 |---|---|---|
-| 🐱 | **[smartcat](https://github.com/a0s/smartcat)** | `cat` that renders Markdown, images, PDFs and code in the terminal — and stays plain `cat` for pipes and scripts |
-| 🌐 | **[ipv6-install](https://github.com/a0s/ipv6-install)** | Automatic IPv6 on macOS: a WireGuard tunnel that appears only on networks without IPv6 |
-| 🧦 | **[3proxy-install](https://github.com/a0s/3proxy-install)** | Your own HTTP/SOCKS proxy on any Linux in one interactive script |
-| 🔄 | **[work-dir-sync](https://github.com/a0s/work-dir-sync)** | Continuous two-way sync of local folders with S3 — rclone bisync driven by FSEvents |
-| 🔒 | **[max-in-jail](https://github.com/a0s/max-in-jail)** | Run the Max messenger safely inside an Android emulator on macOS |
+| 🐱 | **[smartcat](https://github.com/a0s/smartcat)** <br> ![stars](https://img.shields.io/github/stars/a0s/smartcat?style=flat-square&label=★&color=yellow) | `cat` that renders Markdown, images, PDFs and code in the terminal — and stays plain `cat` for pipes and scripts |
+| 🌐 | **[ipv6-install](https://github.com/a0s/ipv6-install)** <br> ![stars](https://img.shields.io/github/stars/a0s/ipv6-install?style=flat-square&label=★&color=yellow) | Automatic IPv6 on macOS: a WireGuard tunnel that appears only on networks without IPv6 |
+| 🧦 | **[3proxy-install](https://github.com/a0s/3proxy-install)** <br> ![stars](https://img.shields.io/github/stars/a0s/3proxy-install?style=flat-square&label=★&color=yellow) | Your own HTTP/SOCKS proxy on any Linux in one interactive script |
+| 🔄 | **[work-dir-sync](https://github.com/a0s/work-dir-sync)** <br> ![stars](https://img.shields.io/github/stars/a0s/work-dir-sync?style=flat-square&label=★&color=yellow) | Continuous two-way sync of local folders with S3 — rclone bisync driven by FSEvents |
+| 🔒 | **[max-in-jail](https://github.com/a0s/max-in-jail)** <br> ![stars](https://img.shields.io/github/stars/a0s/max-in-jail?style=flat-square&label=★&color=yellow) | Run the Max messenger safely inside an Android emulator on macOS |
 
 <details>
 <summary><b>☁️ Infrastructure & observability (earlier work)</b></summary>
